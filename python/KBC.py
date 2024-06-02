@@ -4,7 +4,7 @@ print(welcome.center(80))
 
 question=["who developed python language?", " Which type of Programming does Python support?" ,"What will be the value of the following Python expression? (4 + 3 % 5)"]
 option=[["a. Guido van Rossum","b. Mark Zuckerberg","c. Bjarne Stroustrup","d. Dennis Ritchie"],["a. object-oriented programming","b. structured programming","c. functional programming","d. all of the mentioned"],["a. 2","b. 7","c. 4","d. 1"]]
-answer=["a","d","b"]
+answer=["a","d","b"]     """Must be hidden right? I will work on it with my flow"""
 
 count=0
 cash=10000
