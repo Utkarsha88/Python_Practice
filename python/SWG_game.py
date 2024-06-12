@@ -16,7 +16,6 @@ def assign(choice):
         return "3"
     else:
         print("Choose correct option")
-
 print("*****Lets Play Snake, Water & Gun Game******\n")
 print("What's your choice?\n")
 print("1.Snake\n2.Water\n3.Gun\n")
