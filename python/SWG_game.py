@@ -1,4 +1,3 @@
-
 def computer_choice():
 
     set={"Snake","Water","Gun"}
